@@ -1,6 +1,7 @@
 > **Warning**
 >
 > YARG is **not done yet**! Expect incomplete features and bugs!
+> The Rb3 theme for YARG.
 
 <br/>
 
